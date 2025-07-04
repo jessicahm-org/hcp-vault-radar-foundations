@@ -10,6 +10,7 @@ import (
 
 const username = "jalbertson"
 const password = "b3stp@stw00rd3vA!"
+const password2 = "P@ssw0rd123!"
 
 func main() {
 }
