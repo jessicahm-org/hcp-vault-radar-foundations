@@ -10,7 +10,7 @@ import (
 
 const username = "jalbertson"
 const password = "b3stp@stw00rd3vA!"
-const password2 = "P@ssw0rd123!"
+//comment away the password or put password in hashicorp vault
 
 func main() {
 }
