@@ -9,7 +9,7 @@ import (
 // Auth params
 
 const username = "jalbertson"
-const password = "b3stp@stw00rd3vA!"
+const password = "b3stp@stw00rd3vA!!!"
 const password2 = "P@ssw0rd124!"
 const vault_token = "hvs.4kZkME6mRPIc9HGX3rpVet8p"
 const aws_secret_key = "PvL4FjrrSXyT7qrllCS42SoNFbNI1c5NBJNqi8In"
