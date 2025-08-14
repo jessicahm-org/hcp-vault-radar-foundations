@@ -11,6 +11,7 @@ import (
 const username = "jalbertson"
 const password = "b3stp@stw00rd3vA!"
 const password2 = "P@ssw0rd124!"
+const aws_secret_key = "PvL4FjrrSXyT7qrllCS42SoNFbNI1c5NBJNqi8In"
 
 func main() {
 }
